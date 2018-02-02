@@ -1,4 +1,4 @@
-# cookie-monster
+## cookie-monster
 
 Who wants cookies?! Let's create the frontend of our website to sell our hottest cookie products!
 
